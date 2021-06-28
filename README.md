@@ -31,10 +31,10 @@ $ git clone https://github.com/Fake-Is-Now-Detected/deepfake_detection.git
 ## 2. Dataset (데이터셋)
 Dataset|Images/Videos|Numbers of Dataset|Size|Unseen|Link to Download 
 ---|:-------:|---:|:----:|:------:|:----:
-Face Forensics++|Vidoes|5000|8.42GB|X|[LINK](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
-Celeb-DF|Videos|6229|10GB|X|[LINK](https://docs.google.com/forms/d/e/1FAIpQLScoXint8ndZXyJi2Rcy4MvDHkkZLyBFKN43lTeyiG88wrG0rA/viewform)
+Face Forensics++|Vidoes|5,000|8.42GB|X|[LINK](https://docs.google.com/forms/d/e/1FAIpQLSdRRR3L5zAv6tQ_CKxmK4W96tAab_pfBu2EKAgQbeDVhmXagg/viewform)
+Celeb-DF|Videos|6,229|10GB|X|[LINK](https://docs.google.com/forms/d/e/1FAIpQLScoXint8ndZXyJi2Rcy4MvDHkkZLyBFKN43lTeyiG88wrG0rA/viewform)
 Deepfake Detection Challenge(DFDC)|Videos|100,000|90GB|X|[LINK](https://ai.facebook.com/datasets/dfdc)
-Dacon Deepfake Detection Championship|Images|1300,000|127.6GB|X|[LINK](https://dacon.io/competitions/official/235655/data)
+Dacon Deepfake Detection Championship|Images|1,300,000|127.6GB|X|[LINK](https://dacon.io/competitions/official/235655/data)
 UADFV|Videos|98|-|X|-
 real data|Images&Videos|-|-|O|-
 
