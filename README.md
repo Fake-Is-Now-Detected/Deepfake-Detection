@@ -38,7 +38,6 @@ Dacon Deepfake Detection Championship|Images|1,300,000|127.6GB|X|[LINK](https://
 UADFV|Videos|98|-|X|-
 real data|Images&Videos|-|-|O|-
 
-Download Link for the dataset
 
 ## 3. Model Explanation (모델 설명)
 ### XceptionNet
